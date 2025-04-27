@@ -1,0 +1,46 @@
+.roadmap-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .roadmap-page h1, .roadmap-page h2 {
+    color: #6B46C1;
+  }
+  
+  .roadmap-page label {
+    font-weight: bold;
+  }
+  
+  .roadmap-page select, .roadmap-page textarea, .roadmap-page input {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .roadmap-page textarea {
+    min-height: 60px;
+  }
+  
+  .roadmap-page button {
+    background-color: #6B46C1;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .roadmap-page button:hover {
+    background-color: #553C9A;
+  }
+  
+  .roadmap-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .roadmap-page li {
+    margin-bottom: 20px;
+    border: 1px solid #E9D8FD;
+    padding: 10px;
+  }
